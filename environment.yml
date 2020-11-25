@@ -1,0 +1,17 @@
+name: stats-analysis
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - python=3.8
+  - numpy>=1.15
+  - matplotlib
+  - pandas
+  - scipy
+  - statsmodels
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - notebook
+  - ipykernel
+  - ipython
